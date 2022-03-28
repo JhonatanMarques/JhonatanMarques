@@ -1,4 +1,4 @@
-## Olá eu sou o Jhonatan Marques ! 😁
+## Olá, eu sou o Jhonatan Marques ! 😁
 
 - 👨🏿‍💻 Hoje eu trabalho com Desenvolvimento Web
 - 📚 Estou estudando JavaScript 
