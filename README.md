@@ -2,7 +2,8 @@
 
 - 👨🏿‍💻 Hoje eu trabalho com Desenvolvimento Web
 - 📚 Estou estudando JavaScript 
-- 📫 Para entrar em contato comigo, envie uma mensagem para jhonatan_marques22@hotmail.com ou um direct no meu perfil: https://www.linkedin.com/in/jhonatan-marques-3685121b1/
+- 📫 Para entrar em contato comigo, envie uma mensagem para jhonatan_marques22@hotmail.com ou 
+um direct no meu perfil: https://www.linkedin.com/in/jhonatan-marques-3685121b1/
 
 <div align="left">
   <a href="https://github.com/JhonatanMarques/">
